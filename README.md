@@ -15,7 +15,7 @@ This project is focused on exploring the interpretability of deep learning model
 
 3. **Class Model Visualization**:
    <img width="1146" alt="截圖 2024-10-16 上午8 52 23" src="https://github.com/user-attachments/assets/b36b4d19-de86-4711-8193-ef376fc3cc23">
-   We perform gradient ascent on an input image to find a visual representation that maximizes the score for a specific class. This method offers insights into what features or patterns the model associates with a particular class label.
+   Perform gradient ascent on an input image to find a visual representation that maximizes the score for a specific class. This method offers insights into what features or patterns the model associates with a particular class label.
 
 6. **Fooling Images**:
    <img width="612" alt="image" src="https://github.com/user-attachments/assets/97486146-e5e8-48aa-bed8-d37cc20eac73">
@@ -25,7 +25,7 @@ This project is focused on exploring the interpretability of deep learning model
    <img width="1129" alt="截圖 2024-10-16 上午8 55 13" src="https://github.com/user-attachments/assets/77607492-6bd7-4142-ae6e-866f99676882">
     <img width="1138" alt="截圖 2024-10-16 上午8 57 05" src="https://github.com/user-attachments/assets/07ca510d-81dc-49d2-b8db-1492f8a6a9dc">
 
-   We use neural style transfer to generate new images by combining the content of one image with the artistic style of another. Different parameter settings are experimented with to assess how content and style interact and which parameters yield the best visual outputs.
+   Use neural style transfer to generate new images by combining the content of one image with the artistic style of another. Different parameter settings are experimented with to assess how content and style interact and which parameters yield the best visual outputs.
 
 10. **Using Captum for Interpretation**:
     <img width="977" alt="截圖 2024-10-16 上午8 57 33" src="https://github.com/user-attachments/assets/7d2f57e9-376c-4dde-bbae-d6e46db9919d">
